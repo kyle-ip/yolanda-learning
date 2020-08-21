@@ -15,7 +15,7 @@ Install dependencies (Ubuntu)
 sudo apt install cmake g++ make
 ```
 
-configure and build project
+Configure and build project
 
 ```shell
 mkdir build and cd !$
